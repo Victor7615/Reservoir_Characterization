@@ -3,7 +3,7 @@ import pandas as pd
 import joblib
 
 # Load the saved model
-model = joblib.load('C:/Users/USER/Desktop/Permeability_prediction/random_forest_model.joblib')
+model = joblib.load('random_forest_model.joblib')
 def predict_perm():
     # Define the input fields
     st.title('Permeability Prediction')
