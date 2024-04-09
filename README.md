@@ -1,6 +1,6 @@
 # Oil and Gas Reservoir Prediction
 
-![Reservoir](reservoir_image.jpg)
+![Reservoir](types-petroleum-traps.webp)
 
 ## Overview
 
