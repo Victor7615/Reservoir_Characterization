@@ -2,7 +2,7 @@ import streamlit as st
 import joblib
 
 # Load the saved model
-fluid_model = joblib.load('fluid_classifier.pkl')
+fluid_model = joblib.load('Fluid_Classifier.pkl')
 
 def predict_fluid():
     st.subheader('Fluid Content Classification')
